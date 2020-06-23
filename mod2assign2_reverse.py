@@ -1,4 +1,4 @@
 s='python'
-reversed=' '.joined(reversed(s))
+reversed=' '.join(reversed(s))
 print(reversed)
 	  
